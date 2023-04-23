@@ -11,6 +11,7 @@
 		275583B129F5BA3200BB3D79 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 275583B029F5BA3200BB3D79 /* ContentView.swift */; };
 		275583B329F5BA3300BB3D79 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 275583B229F5BA3300BB3D79 /* Assets.xcassets */; };
 		275583B629F5BA3300BB3D79 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 275583B529F5BA3300BB3D79 /* Preview Assets.xcassets */; };
+		275583BD29F5BB2900BB3D79 /* ParticleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 275583BC29F5BB2900BB3D79 /* ParticleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		275583B029F5BA3200BB3D79 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		275583B229F5BA3300BB3D79 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		275583B529F5BA3300BB3D79 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		275583BC29F5BB2900BB3D79 /* ParticleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParticleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				275583AE29F5BA3200BB3D79 /* FunAnimationsApp.swift */,
 				275583B029F5BA3200BB3D79 /* ContentView.swift */,
+				275583BC29F5BB2900BB3D79 /* ParticleView.swift */,
 				275583B229F5BA3300BB3D79 /* Assets.xcassets */,
 				275583B429F5BA3300BB3D79 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				275583BD29F5BB2900BB3D79 /* ParticleView.swift in Sources */,
 				275583B129F5BA3200BB3D79 /* ContentView.swift in Sources */,
 				275583AF29F5BA3200BB3D79 /* FunAnimationsApp.swift in Sources */,
 			);
