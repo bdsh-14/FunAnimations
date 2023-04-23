@@ -14,7 +14,7 @@ struct ContentView: View {
 				NavigationLink {
 					ParticleView()
 				} label: {
-					Text("Confetti")
+					Text("Particle View")
 				}
 				NavigationLink {
 					EmptyView()
