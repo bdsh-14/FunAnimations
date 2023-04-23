@@ -38,7 +38,7 @@ struct ParticleMotionEffect: GeometryEffect {
 
 	func effectValue(size: CGSize) -> ProjectionTransform {
 		let dx = v0 * time * cos(alpha)
-		let dy = v0 * tan(alpha) * time - 0.5 * g * time * time * 10
+		let dy = v0 * tan(alpha) * time - 0.5 * g * time * 10
 
 		let affineTransform = CGAffineTransform(translationX: dx, y: -dy)
 		return ProjectionTransform(affineTransform)
