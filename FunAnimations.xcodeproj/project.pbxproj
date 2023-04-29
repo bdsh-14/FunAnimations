@@ -15,6 +15,7 @@
 		275583BF29F5D81E00BB3D79 /* ScalableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 275583BE29F5D81E00BB3D79 /* ScalableView.swift */; };
 		275583C329F78A2B00BB3D79 /* WaterLevelShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 275583C229F78A2B00BB3D79 /* WaterLevelShape.swift */; };
 		275583C529F78DCD00BB3D79 /* WaterLevelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 275583C429F78DCD00BB3D79 /* WaterLevelView.swift */; };
+		275583C729FB428C00BB3D79 /* CutoutCornerRects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 275583C629FB428C00BB3D79 /* CutoutCornerRects.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		275583BE29F5D81E00BB3D79 /* ScalableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScalableView.swift; sourceTree = "<group>"; };
 		275583C229F78A2B00BB3D79 /* WaterLevelShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterLevelShape.swift; sourceTree = "<group>"; };
 		275583C429F78DCD00BB3D79 /* WaterLevelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterLevelView.swift; sourceTree = "<group>"; };
+		275583C629FB428C00BB3D79 /* CutoutCornerRects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CutoutCornerRects.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				275583BE29F5D81E00BB3D79 /* ScalableView.swift */,
 				275583C229F78A2B00BB3D79 /* WaterLevelShape.swift */,
 				275583C429F78DCD00BB3D79 /* WaterLevelView.swift */,
+				275583C629FB428C00BB3D79 /* CutoutCornerRects.swift */,
 			);
 			path = FunAnimations;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 				275583C329F78A2B00BB3D79 /* WaterLevelShape.swift in Sources */,
 				275583AF29F5BA3200BB3D79 /* FunAnimationsApp.swift in Sources */,
 				275583BF29F5D81E00BB3D79 /* ScalableView.swift in Sources */,
+				275583C729FB428C00BB3D79 /* CutoutCornerRects.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
