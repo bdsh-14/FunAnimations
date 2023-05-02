@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		274D839629FE12500026DADA /* PolygonsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 274D839529FE12500026DADA /* PolygonsView.swift */; };
+		274D839829FE2D810026DADA /* ProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 274D839729FE2D810026DADA /* ProgressView.swift */; };
+		274D839A2A0089630026DADA /* ScaleMovement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 274D83992A0089630026DADA /* ScaleMovement.swift */; };
 		275583AF29F5BA3200BB3D79 /* FunAnimationsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 275583AE29F5BA3200BB3D79 /* FunAnimationsApp.swift */; };
 		275583B129F5BA3200BB3D79 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 275583B029F5BA3200BB3D79 /* ContentView.swift */; };
 		275583B329F5BA3300BB3D79 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 275583B229F5BA3300BB3D79 /* Assets.xcassets */; };
@@ -19,6 +22,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		274D839529FE12500026DADA /* PolygonsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PolygonsView.swift; sourceTree = "<group>"; };
+		274D839729FE2D810026DADA /* ProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressView.swift; sourceTree = "<group>"; };
+		274D83992A0089630026DADA /* ScaleMovement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScaleMovement.swift; sourceTree = "<group>"; };
 		275583AB29F5BA3200BB3D79 /* FunAnimations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FunAnimations.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		275583AE29F5BA3200BB3D79 /* FunAnimationsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunAnimationsApp.swift; sourceTree = "<group>"; };
 		275583B029F5BA3200BB3D79 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -70,6 +76,9 @@
 				275583C229F78A2B00BB3D79 /* WaterLevelShape.swift */,
 				275583C429F78DCD00BB3D79 /* WaterLevelView.swift */,
 				275583C629FB428C00BB3D79 /* CutoutCornerRects.swift */,
+				274D839529FE12500026DADA /* PolygonsView.swift */,
+				274D839729FE2D810026DADA /* ProgressView.swift */,
+				274D83992A0089630026DADA /* ScaleMovement.swift */,
 			);
 			path = FunAnimations;
 			sourceTree = "<group>";
@@ -159,6 +168,9 @@
 				275583AF29F5BA3200BB3D79 /* FunAnimationsApp.swift in Sources */,
 				275583BF29F5D81E00BB3D79 /* ScalableView.swift in Sources */,
 				275583C729FB428C00BB3D79 /* CutoutCornerRects.swift in Sources */,
+				274D839629FE12500026DADA /* PolygonsView.swift in Sources */,
+				274D839829FE2D810026DADA /* ProgressView.swift in Sources */,
+				274D839A2A0089630026DADA /* ScaleMovement.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
